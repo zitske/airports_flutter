@@ -1,9 +1,9 @@
-Airport
+# Airport
 
 Package that consults information about airports around the world.
 
-Usage
-
+## Usage
+```dart
 import 'package:airport/airports.dart';
 
 main() async {
@@ -18,3 +18,4 @@ main() async {
   print(resultado.lon);
   print(resultado.state);
 }
+```
