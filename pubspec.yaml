@@ -1,0 +1,11 @@
+name: airport
+description: A library to get airports informations.
+homepage: https://github.com/zitske/airports_flutter
+version: 1.0.0+1
+documentation: https://github.com/zitske/airports_flutter
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  http: ^0.13.3
